@@ -1,0 +1,19 @@
+{
+  "name": "msjavascriptnodejs",
+  "version": "1.0.0",
+  "description": "API HTTP para gerenciar itens do banco de dados Taiwind Traders",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "api",
+    "database"
+  ],
+  "author": "Sam",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
